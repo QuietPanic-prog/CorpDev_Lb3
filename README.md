@@ -104,3 +104,18 @@ $env:JAVA_HOME = "C:\Users\Quiet Panic\.jdks\openjdk-25"
 ```powershell
 .\mvnw.cmd test
 ```
+#Скриншоты
+##Форма "Военнослужащие" для работы с таблицей "servicemen"
+<img width="1387" height="941" alt="image" src="https://github.com/user-attachments/assets/391fa124-418c-44da-9cf2-e14cd6abe67b" />
+##Форма "Звания" для работы с таблицей "ranks"
+<img width="1382" height="679" alt="image" src="https://github.com/user-attachments/assets/d8ff9399-a4ac-4e6f-abe7-56206a06e805" />
+##Форма для добавления новых военнослужащих
+<img width="1374" height="691" alt="image" src="https://github.com/user-attachments/assets/6c4da40f-dde0-4cd2-a0a5-ab2b3866e4cd" />
+##Поиск по городу
+<img width="1380" height="776" alt="image" src="https://github.com/user-attachments/assets/67768f7f-06cc-4081-b67a-5c6545e92bb8" />
+##Поиск по званию
+<img width="1389" height="778" alt="image" src="https://github.com/user-attachments/assets/4461ade8-3d81-487b-a307-05950f21676e" />
+
+
+
+
